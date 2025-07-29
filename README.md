@@ -28,7 +28,7 @@ MediReach is a full-stack web application built using the MERN (MongoDB, Express
 - 
 ### Installation
 
-1. Clone the repo: git clone https://github.com/your-username/MediReach.git
+1. Clone the repo: git clone https://github.com/RSoumika/MediReach.git
   
 2. Install dependencies:
 - Backend:
