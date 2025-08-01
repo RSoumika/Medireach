@@ -50,8 +50,12 @@ JWT_SECRET=your_jwt_secret
 4.Start the app:
 
 Backend:
+```
 npm start
+```
 
 Frontend:
+```
 npm start
+```
 
